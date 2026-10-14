@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "front": "What keyword defines a function in Python?",
+      "back": "def"
+    },
+    {
+      "front": "What function displays output in Python?",
+      "back": "print"
+    },
+    {
+      "front": "What built-in type stores True or False?",
+      "back": "bool"
+    },
+    {
+      "front": "What keyword is used to create a class?",
+      "back": "class"
+    },
+    {
+      "front": "What operator tests equality?",
+      "back": "=="
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  {"term": "Big-O notation", "definition": "Upper bound on growth rate"},
+  {"term": "Binary search", "definition": "O(log n) search on sorted data"},
+  {"term": "Hash table", "definition": "Key-value store with O(1) average lookup"}
+]

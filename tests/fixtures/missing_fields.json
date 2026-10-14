@@ -1,0 +1,8 @@
+[
+  {"term": "Good", "definition": "This one is fine"},
+  {"term": "No definition"},
+  {"definition": "No term"},
+  "not an object",
+  {"term": "Bad type", "definition": 42},
+  {"term": "   ", "definition": "blank term"}
+]

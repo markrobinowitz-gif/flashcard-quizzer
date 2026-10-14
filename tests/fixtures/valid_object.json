@@ -1,0 +1,7 @@
+{
+  "title": "Data Structures",
+  "cards": [
+    {"term": "Stack", "definition": "LIFO collection", "hint": "Last in, first out"},
+    {"question": "Queue", "answer": "FIFO collection"}
+  ]
+}
